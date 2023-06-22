@@ -21,10 +21,10 @@ Welcome to the Secret Sharing Website, a platform where users can anonymously sh
 ## Getting Started
 To get started with the Secret Sharing Website, follow these steps:
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone https://github.com/dhamkirti21/Secret-.git`
 2. Install the dependencies: `npm install`
-3. Set up the MongoDB database and configure the connection in `config.js`.
-4. Start the server: `npm start`
+3. Set up the environment and configure the connection in `.env` file.
+4. Start the server: `nodemon index.js`
 5. Access the website at `http://localhost:3000`
 
 Feel free to contribute to this project by creating pull requests. Happy secret sharing!
