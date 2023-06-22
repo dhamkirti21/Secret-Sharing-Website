@@ -6,9 +6,7 @@ Welcome to the Secret Sharing Website, a platform where users can anonymously sh
 - **Anonymous Secret Sharing**: Users can share their secrets without revealing their identity.
 - **Secure Storage**: Secrets are securely stored in a MongoDB database.
 - **User Authentication**: User registration and login functionality for added privacy and security.
-- **User Dashboard**: Users can manage their shared secrets and view their submission history.
 - **Encryption**: Secrets are encrypted before being stored in the database, ensuring confidentiality.
-- **Search Functionality**: Users can search for secrets based on keywords or categories.
 
 ## Tech Stack
 - **Node.js**: The backend is built using Node.js to handle server-side logic.
